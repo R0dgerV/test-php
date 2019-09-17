@@ -28,3 +28,4 @@
 - Роутеры в формате Laravel. https://laravel.com/docs/5.8/routing
 - Одна модель Eloquent, на Ваш выбор. https://laravel.com/docs/5.8/eloquent
 - Документация в swagger.oi одного контроллера, на Ваш выбор.
+- Код должен проходить тесты PSR-2
